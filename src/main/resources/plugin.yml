@@ -1,0 +1,4 @@
+main: com.discordsrv.HN.AccountLinkListener
+version: 1.0
+name: CheckLink-DiscordSRV-Addon
+depend: [CheckLink-DiscordSRV-Addon]
